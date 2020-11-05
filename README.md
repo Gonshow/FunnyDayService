@@ -1,0 +1,2 @@
+# FunnyDayService
+Djangoでwebサービスをつくっている。
